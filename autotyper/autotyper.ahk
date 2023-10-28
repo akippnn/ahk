@@ -19,6 +19,8 @@ MyGui.Hide()
 
 #HotIf WinActive("ahk_exe Discord.exe")
 ~^+I::MyGui.Show()
+#HotIf WinActive("ahk_exe AutoHotkey32.exe")
+~*Esc::MyGui.Hide()
 #HotIf WinActive("ahk_exe AutoHotkey64.exe")
 ~*Esc::MyGui.Hide()
 #HotIf

@@ -12,6 +12,8 @@
 1. Download and install AutoHotkey v2 from the [AutoHotkey website](https://autohotkey.com/download/).
 2. Download the Autotyper script from [this link](https://github.com/akippnn/ahk/releases/tag/autotyper).
 3. Extract the Autotyper script folder to a convenient location, such as your Desktop.
+4. Create your own `responses.json` or use an existing one.  
+   The Key-Value pairs are the name of the response (make it something you can recognize) and the text typed, respectively.
 
 ## Usage
 

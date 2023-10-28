@@ -1,0 +1,3 @@
+[submodule "autotyper/jxon"]
+	path = autotyper/jxon
+	url = https://github.com/TheArkive/JXON_ahk2.git
